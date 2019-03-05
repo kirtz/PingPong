@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\kirta\onedrive\documents\university work\pingpong\pingpong\pingpong\main.cpp(52): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\kirta\onedrive\documents\university work\pingpong\pingpong\pingpong\main.cpp(55): warning C4244: 'argument': conversion from 'const float' to 'unsigned int', possible loss of data
+  PingPong.vcxproj -> C:\Users\Kirta\OneDrive\Documents\University Work\PingPong\PingPong\Debug\PingPong.exe
